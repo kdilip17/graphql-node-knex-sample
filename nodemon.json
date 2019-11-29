@@ -1,0 +1,7 @@
+{
+    "env": {
+        "postgresURL": "postgres://postgres:arubaans@localhost:5433/knextest",
+        "mongoconnectURL": "mongodb+srv://dilip:test1234@cluster0-mzar1.mongodb.net/test?retryWrites=true&w=majority",
+        "mongoURL": "mongodb+srv://dilip1:test123@cluster0-mzar1.mongodb.net/test"
+    }
+}
